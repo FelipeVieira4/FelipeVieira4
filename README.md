@@ -8,6 +8,6 @@ Algumas coisas sobre mim:
 Eu tenho foco em entrar como programador Back-End mais pretendo ser Full-Stack
 
 Uso sistema operacionais Linux e Atualmente estou usando Arch Linux
-![screenshot_after](https://user-images.githubusercontent.com/101891565/211670258-3f3ac103-8ca6-47ea-8eef-2ac3a1d10d8f.png)
+![screenshot_after](https://user-images.githubusercontent.com/101891565/211676415-06caba39-db4a-4a6b-a4b0-c2e6df739bfb.png)
 
 Estou estudando Java atualmente, mais tenho conhecimento básico a intermediário em C👌
