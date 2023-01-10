@@ -7,6 +7,6 @@ Algumas coisas sobre mim:
 
 Eu tenho foco em entrar como programador Back-End
 
-Uso sistema operacionais com base Linux (Atualmente estou usando Arch Linux)![787248](https://user-images.githubusercontent.com/101891565/211669582-b8da263b-c6eb-4d05-bb77-ed75378ba4fc.png)
+Uso sistema operacionais com base Linux (Atualmente estou usando Arch Linux)![787248](https://user-images.githubusercontent.com/101891565/211669698-8b605220-1adf-4a8a-aa09-efce52999c47.png)
 
 
