@@ -2,7 +2,11 @@
 
 Meu nome é Felipe Vieira estudo programação,
 Estou atualmente cursando Desenvolvimento de Sistemas no SENAI.
+e como estagiário na Customax
 
-Eu tenho foco em entrar como programador Back-End mais pretendo ser Full-Stack.
+Atualmente estou estudando JS no SENAI e Object-Script Caché no meu estagio👌
 
-Estou estudando Java atualmente, mas tenho conhecimento básico a intermediário em C👌
+Tenho conhecimentos em:
+ - Java
+ - C
+ - Rust
