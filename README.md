@@ -1,12 +1,12 @@
-### Olá á Todos!! 🖖
+### Welcome
 
-Meu nome é Felipe Vieira estudo programação,
-Estou atualmente cursando Desenvolvimento de Sistemas no SENAI.
-e como estagiário na Customax
-
-Atualmente Object-Script Caché no meu estagio👌 mas tabmém GDScript para desenvolvimento de jogos mais como um hobby
+Sou Felipe Vieira - Desenvolverdor De Softwares na Customax .LTDA
+ - Curso Técnico Desenvolvimento de Sistemas no SENAI.
+Programador IRIS(Caché)
 
 Tenho conhecimentos em:
  - Java
  - C
  - Rust
+ - JavaScript
+ - Iris
