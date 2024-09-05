@@ -5,7 +5,7 @@ Sou Felipe Vieira - Desenvolverdor De Softwares na Customax .LTDA
 Programador IRIS(Caché)
 
 Tenho conhecimentos em:
- - Java
+ - Java(Legacy e SpringBoot)
  - C
  - Rust
  - JavaScript
