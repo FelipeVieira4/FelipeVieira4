@@ -1,7 +1,7 @@
 ### Welcome
 
 Sou Felipe Vieira - Desenvolverdor De Softwares na Customax .LTDA
- - Curso Técnico Desenvolvimento de Sistemas no SENAI.
+ - Tenho Curso Técnico Desenvolvimento de Sistemas no SENAI.
 Programador IRIS(Caché)
 
 Tenho conhecimentos em:
