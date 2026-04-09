@@ -1,6 +1,7 @@
 ### Welcome
-Sou Felipe Vieira! 👋
-Sou um Desenvolvedor de Software apaixonado por construir soluções e regras de négocios. Atualmente, faço parte do time da Customax .LTDA.
+Sou Felipe Vieira!
+Desenvolvedor de Software apaixonado por construir soluções e implementar regras de negócio.
+Atualmente faço parte do time da Customax LTDA.
 
 ## 🎓 Formação
 * Engenharia de Software | Católica (2025 – Presente)
