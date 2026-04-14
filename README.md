@@ -1,6 +1,6 @@
 ### Welcome
 Sou Felipe Vieira!
-Desenvolvedor de Software apaixonado por construir soluções e implementar regras de negócio.
+Desenvolvedor de Software focado em construir soluções e implementar regras de negócio.
 
 ## 🎓 Formação
 * Engenharia de Software | Católica (2025 – Presente)
