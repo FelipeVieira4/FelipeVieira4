@@ -2,10 +2,6 @@
 Sou Felipe Vieira!
 Desenvolvedor de Software focado em construir soluções e implementar regras de negócio.
 
-## 🎓 Formação
-* Engenharia de Software | Católica (2025 – Presente)
-* Técnico em Desenvolvimento de Sistemas | SENAI (2022 – 2024)
-
 ## 🛠️ Tech Stack
 * ☕ Java
     - Desenvolvimento de aplicações com Spring Boot
