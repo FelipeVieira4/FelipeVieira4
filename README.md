@@ -57,7 +57,7 @@ Desenvolvedor de Software focado em construir soluções e implementar regras de
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeVieira4&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://ghchart.rshah.org/36BCF7/FelipeVieira4" alt="Contribuições do GitHub" width="100%" />
 
 </div>
 
