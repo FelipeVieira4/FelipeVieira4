@@ -49,16 +49,3 @@ Desenvolvedor de Software focado em construir soluções e implementar regras de
 <img src="https://streak-stats.demolab.com/?user=FelipeVieira4&theme=tokyonight&hide_border=true" />
 
 </div>
-
-
----
-
-## 📈 Atividade
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/36BCF7/FelipeVieira4" alt="Contribuições do GitHub" width="100%" />
-
-</div>
-
----
