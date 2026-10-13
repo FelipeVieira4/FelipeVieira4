@@ -21,7 +21,7 @@ Desenvolvedor de Software focado em construir soluções e implementar regras de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,c,c++,arduino,git,github,linux,vscode,emacs,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,c,cpp,arduino,git,github,linux,vscode,emacs,postman&theme=dark" />
 
 </div>
 
