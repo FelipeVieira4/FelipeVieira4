@@ -21,7 +21,7 @@ Desenvolvedor de Software focado em construir soluções e implementar regras de
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,c,arduino,git,github,linux,vscode,emacs,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,c,c++,arduino,git,github,linux,vscode,emacs,postman&theme=dark" />
 
 </div>
 
@@ -31,7 +31,7 @@ Desenvolvedor de Software focado em construir soluções e implementar regras de
 * 🧩 **InterSystems IRIS**
     - Customização e desenvolvimento no sistema Consistem ERP
     - Criação e manutenção de rotinas de negócio
-* ⚙️ **C**
+* ⚙️ **C/C++**
     - Desenvolvimento para IoT com Arduino e ESP32 e uso de APIs gráficas como SDL e RayLib
     - Criação de aplicações com foco em baixo nível
 
